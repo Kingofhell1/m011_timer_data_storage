@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">m011_timer_data_storage</string>
+    <string name="button_text_save">save</string>
+    <string name="button_text_clear">clear</string>
+    <string name="text_edit">Enter text</string>
+</resources>
